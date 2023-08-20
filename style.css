@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+#hero{
+    width:100vw;
+    height:100vh;
+    background-image:url("https://images.unsplash.com/photo-1683229796876-cc745ef395ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDF8Ym84alFLVGFFMFl8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background-color:blue;
+    text-align:center;
+    background-position:center;
+    background-size:cover;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#hero-heading{
+   
+    font-size: 50px;
+    padding-top: 100px;
+    text-shadow: 0px 0px 10px black;
+
+}
+#hero-text{
+    margin-bottom: 3opx;
+}
+#hero-button{
+    background-color: orange;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    margin-bottom: 100px;
+    cursor:pointer;
+
+}
+#hero-button:hover{
+    background-color: rgb(50, 237, 30);
+    
+
+}
